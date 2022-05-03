@@ -1,0 +1,32 @@
+.heading{
+    font-size: 33px;
+    width: 100%;
+    margin: opx;
+    box-shadow: 5px 5px 5px darkcyan;
+
+}
+
+.note{
+    font-size: 15px;
+    color: darkcyan;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darkcyan;
+    bottom: 0;
+    width: 100%;
+    background-color: lightsalmon;
+    line-height: 3;
+    text-align: center;
+}
+
+.bodybackground 
+{
+    background-image: url(https://media.istockphoto.com/vectors/seamless-speech-bubbles-vector-id521033864?k=20&m=521033864&s=612x612&w=0&h=fV1vbrSZk0WFuaD7tpMGi7Iwus4DQE-dAzJ8K-ZZ7MM=);
+}
+
+.input {
+    height: 500px;
+    width: 500px;
+}
